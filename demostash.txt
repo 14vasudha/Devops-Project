@@ -1,0 +1,5 @@
+This file is for practice purpose.
+abcd
+abc
+ad
+a
